@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<html lang="fa" class="no-js">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>FrenchOnline - The best way to learn French... ONLINE ;)</title>
+		<meta name="description" content="A creative way to learn French online, یک راه خلاقانهو ساده و سریع و ارزان برای یادگیری زبان فرانسه" />
+		<meta name="keywords" content="French, France, Telegram, E-learning, فرانسوی, آموزش, آموزش فرانسوی, تلگرام, کلاس فرانسوی" />
+		<meta name="author" content="Peter Finlan" />
+		<meta name="author" content="Mohammad Goli" />
+		<link rel="shortcut icon" href="{{ url_for('static', filename='img/17.png')}}">
+		<!-- Bootstrap -->
+		<script src="{{ url_for('static', filename='js/modernizr.custom.js' )}}"></script>
+		<link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+		<link rel="stylesheet" href="http://cdn.rawgit.com/morteza/bootstrap-rtl/v3.3.4/dist/css/bootstrap-rtl.min.css">
+		<link href="{{ url_for('static', filename='css/jquery.fancybox.css') }}" rel="stylesheet">
+		<link href="{{ url_for('static', filename='css/flickity.css') }}" rel="stylesheet" >
+		<link href="{{ url_for('static', filename='css/animate.css') }}" rel="stylesheet">
+		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+		<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
+		<link href="{{ url_for('static', filename='css/styles.css') }}" rel="stylesheet">
+		<link href="{{ url_for('static', filename='css/queries.css') }}" rel="stylesheet">
+		<!-- Facebook and Twitter integration -->
+		<meta property="og:title" content="روشی خلاقانه برای یادگیری زبان فرانسه"/>
+		<meta property="og:image" content=""/>
+		<meta property="og:url" content="http://frenchonline.tk"/>
+		<meta property="og:site_name" content="French Online"/>
+		<meta property="og:description" content=""/>
+		<meta name="twitter:title" content="" />
+		<meta name="twitter:image" content="" />
+		<meta name="twitter:url" content="" />
+		<meta name="twitter:card" content="" />
+		<link href='http://www.fontonline.ir/css/BYekan.css' rel='stylesheet' type='text/css'>
+		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body class="flip">
+		<!--[if lt IE 7]>
+		<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+		<![endif]-->
+		<!-- open/close -->
+		<header>
+			<section class="hero">
+				<div class="texture-overlay"></div>
+				<div class="container">
+					<div class="row nav-wrapper">
+						<div class="col-md-6 col-sm-6 col-xs-6 text-left" style="float:left;">
+							<a href="#"><img src="{{ url_for('static', filename='img/7.png') }}" alt="Boxify Logo"></a>
+						</div>
+						<div class="col-md-6 col-sm-6 col-xs-6 text-right navicon">
+							<a id="trigger-overlay" class="nav_slide_button nav-toggle" href="#" style="padding-right: 0px; "><span></span></a>
+						</div>
+					</div>
+					<div class="row hero-content">
+						<div class="col-md-12">
+							<h1 class="animated fadeInDown">دوره های تخصصی آموزش زبان فرانسه (تدریس با متد معتبر بین المللی)</h1>
+							<a href="http://tympanus.net/codrops/?p=22554" class="use-btn animated fadeInUp">ثبت نام</a> <a href="#about" class="learn-btn animated fadeInUp" dir="rtl"><i class="fa fa-arrow-down"></i>میخواهم بیشتر بدانم</a>
+						</div>
+					</div>
+				</div>
+			</section>
+		</header>
+		<section class="video" id="about">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 text-center">
+						<h1><a href="http://www.youtube.com/embed/9No-FiEInLA?autoplay=1&wmode=opaque&fs=1" class="youtube-media"><i class="fa fa-play-circle-o"></i> <br />مشاهده فیلم</a></h1>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="features-intro">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-6 nopadding features-intro-img">
+						<div class="features-bg">
+							<div class="texture-overlay"></div>
+							<div class="features-img wp1">
+								<img src="{{ url_for('static', filename='img/21.png') }}" alt="HTML5 Logo">
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 nopadding">
+						<div class="features-slider">
+								<ul class="slides" id="featuresSlider">
+									<li>
+										<h1>آموزش مکالمه فرانسه در ۹۶ روز!</h1>
+										<p>پس از گذراندن این دوره کوتاه شما قادر خواهید بود به زبان فرانسه مکالمه کنید.در این دوره آموزش را از ابتدایی ترین موضوعات آغاز میکنیم و با استفاده از مهیجترین روش ها و در کوتاه ترن زمان به شما مکالمه فرانسه را می آموزیم</p>
+										<p><a href="#features" class="arrow-btn"><i class="fa fa-long-arrow-left"></i> چرا این دوره ها مفید خواهند بود؟</a></p>
+									</li>
+									<li>
+										<h1>استفاده از کتب معتبر Café Crème</h1>
+										<p>در این دوره کتاب 1 Café Crème تدریس می شود که شامل 16 یونیت بوده و در 8 ترم تمام می شود. هر ترم شامل 12 جلسه در طی یک ماه خواهد بود و در جلسه آخر هر ترم یک کوئیز جهت خودسنجی ارسال می شود.
+										به تمامی سوالات و اشکالات زبان آموزان پاسخ داده می شود.
+										ترم اول کاملا از صفر (الفبا) شروع می شود و نیاز به هیچ پیش زمینه ای ندارد.
+										دوره های ترمیک در حال برگزاری، بر اساس متد آموزشی استاندارد و در قالب زمانبندی مشخص و در چارچوب مدون و با محتوای طبقه بندی شده و کیفیت بالا برگزار می شود و هیچ تفاوتی با کلاس حضوری ندارد. </p>
+									</li>
+									<li>
+										<h1>قبل از شروع تجربه کنید</h1>
+										<p>نمونه های آموزش را میتوانید در کانال زیر پیدا کنید.
+										از ابتدای مطالب شروع کنید و از دیدن آموزش ها لذت ببرید.</p>
+										<p><a href="https://telegram.me/First_Session" class="arrow-btn"><i class="fa fa-long-arrow-left"></i> مشاهده نمونه دروس.</a></p>
+									</li>
+								</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="features-list" id="features">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+
+						<div class="col-md-4 feature-1 wp2">
+							<div class="feature-icon">
+								<i class="fa fa-desktop"></i>
+							</div>
+							<div class="feature-content">
+								<h1>قابلیت استفاده در همه ی دستگاه ها</h1>
+								<p>ما این امکان را داریم تا همیشه و همه جا در کنار شما باشیم. در این روش شما به هبچ کتاب یا سی دی احتیاج نخواهید داشت و تمام لوازم مورد نیاز همه جا در کنار شما خواهد بود. کافی است یک وسیله با قابلیت اتصال به اینترنت و یک حساب کاربری تلگرام داشته باشید. در صورت زیر متوانید از لینک زیر برای ثبت نام یا دانلود این نرم افزار اقدام نمایید.</p>
+								<a href="https://telegram.org/" class="read-more-btn"><i class="fa fa-chevron-circle-left"></i>تلگرام</a>
+							</div>
+						</div>
+						<div class="col-md-4 feature-2 wp2 delay-05s">
+							<div class="feature-icon">
+								<i class="fa fa-flash"></i>
+							</div>
+							<div class="feature-content">
+								<h1>یادگیری سریع</h1>
+								<p>به دلیل اینکه همیشه و همه جا میتوانید به این آموزش ها دسترسی داشته باشید،‌ بسیار سریع تر از آنچه تصور میکنید میتوانید به سطحی که میخواهید دست یابید.</p>
+							</div>
+						</div>
+						<div class="col-md-4 feature-3 wp2 delay-1s">
+							<div class="feature-icon">
+								<i class="fa fa-heart"></i>
+							</div>
+							<div class="feature-content">
+								<h1>استفاده از مؤثرترین روش های آموزشی</h1>
+								<p>یادگیری زبان فرانسه را به یکی از بهترین تفریحات شما مبدل خواهیم کرد. روش های آموزشی به کار رفته در این دوره ها از<a href="https://www.babbel.com/best-way-to-learn-french">متد روز دنیا</a> پیروی میکنند و این ویژگی در کنار ایده هایی که ما برای آموزش به کار میبریم یکی از بهترین کلاس های آموزشی را برای شما رقم خواهد زد.
+								</p>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="showcase">
+			<div class="showcase-wrap">
+				<div class="texture-overlay"></div>
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6">
+							<div class="device wp3">
+								<div class="device-content">
+									<div class="showcase-slider">
+										<ul class="slides" id="showcaseSlider">
+											<li>
+												<img src="{{ url_for('static', filename='img/screen1.jpg') }}" alt="Device Content Image">
+											</li>
+											<li>
+												<img src="{{ url_for('static', filename='img/screen2.jpg') }}" alt="Device Content Image">
+											</li>
+											<li>
+												<img src="{{ url_for('static', filename='img/screen3.jpg') }}" alt="Device Content Image">
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<h1>درباره مدرس</h1>
+							<p>فاطمه ولی زاده یکی از مدرسین جوان و خلاق زبان فرانسه است. ایده تدریس با استفاده از پلت فرم های موجود اولین بار به ذهن خودش خطور کرد و از سال 92 شروع به تدریس در تلگرام کرد. هم اکنون او دارای ۳ کانال عمومی با بیشا از ۲۰۰۰۰ عضو، و چند کانال خصوصی است که در آنها زبان فرانسه را به صورت خصوصی تدریس میکند.</p>
+							<blockquote class="team-quote">
+								<div class="avatar"><img src="{{ url_for('static', filename='img/avatar.png') }}" alt="User Avatar"></div>
+								<p>"کارشناسی ارشد زبان فرانسه .... " - فاطمه ولی زاده</p>
+								<div class="logo-quote">
+									<a href=""><img src="" alt="Codrops Logo"></a>
+								</div>
+							</blockquote>
+							<a href="http://telegram.me/ftm515" class="download-btn">فاطمه ولی زاده <i class="fa fa-paper-plane"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="screenshots-intro">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h1>برگزاری کلاس ها با ظرفیت محدود</h1>
+						<p>برای این که دوره ها منظم باشند و دانش جویان بتوانند راحتتر مطالب را پیگیری کنند و با مدرس ارتباط داشته باشند، تعداد ثبت نام برای دوره های خصوصی را محدود قرار داده ایم.</p>
+						<p>در این قسمت شما میتوانید نمونه هایی از تدریس ها را مشاهده نمایید. این آموزش ها را به صورت screenshot قرار داده ایم.</p>
+						<p>هزینه ثبت نام برای هر ترم 25000 تومان میباشد. پس از ثبت نام ظرف حداکثر 24 ساعت به کانال مربوطه دعوت خواهید شد.</p>
+						<p><a href="#screenshots" class="arrow-btn"><i class="fa fa-long-arrow-left"></i> مشاهده نمونه عکس ها</a></p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="contact" id="contact">
+			<div id="form">
+				<p>اگر مشکل یا سوالی دارید با ما تماس بگیرید	</p>
+				<form role="form" dir="rtl">
+					<div class="form-group">
+					<label for="comment">نام</label>
+					<input type="email" class="form-control" id="email" placeholder="email" dir="auto">
+					</div>
+					<div class="form-group">
+					<input type="name" class="form-control" id="pwd" placeholder="نام" dir="rtl">
+					</div>
+					<div class="form-group">
+					<label for="comment">پرسش</label>
+					<textarea class="form-control" rows="5" id="comment"></textarea>
+					</div>
+					<button type="submit" class="btn btn-default" id="btn">ثبت پرسش</button>
+				</form>
+			</div>
+		</section>
+		<section class="download" id="download">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 text-center wp4">
+						<h1>میخواهید ثبت نام کنید؟</h1>
+						<a href="http://tympanus.net/codrops/?p=22554" class="download-btn"> ثبت نام <i class="fa fa-sign-in"></i></a>
+					</div>
+				</div>
+			</div>
+		</section>
+		<footer dir='rtl'>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-5">
+						<ul class="footer-nav">
+							<li><a href="#about">معرفی</a></li>
+							<li><a href="#features">دوره ها</a></li>
+							<li><a href="#screenshots">توضیحات</a></li>
+							<li><a href="#download">ثبت نام</a></li>
+						</ul>
+					</div>
+					<div class="col-md-7">
+						<h1 class="footer-logo" dir="ltr">
+						<img src="{{ url_for('static', filename='img/8.png') }}" alt="Footer Logo Blue">
+						</h1>
+						<p dir="ltr">© Boxify 2015 - <a href="http://tympanus.net/codrops/licensing/">Licence</a> - Designed &amp; Developed by <a href="http://www.peterfinlan.com/">Peter Finlan</a></p>
+						<p dir="ltr">© <a href="http://frenchonline.tk">FrenchOnline</a> - Redesigned &amp; Edited by <a href="http://telegram.me/mohammadgoli">Mohammad Goli</a></p>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<div class="overlay overlay-boxify">
+			<nav>
+				<ul>
+					<li><a href="#features"><i class="fa fa-sitemap"></i>دوره ها</a></li>
+					<li><a href="#about"><i class="fa fa-comment"></i>معرفی</a></li>
+				</ul>
+				<ul>
+					<li><a href="#download"><i class="fa fa-sign-in"></i>ثبت نام</a></li>
+					<li><a href="#screenshots"><i class="fa fa-list"></i>توضیحات</a></li>
+				</ul>
+			</nav>
+		</div>
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="{{ url_for('static', filename='js/min/toucheffects-min.js') }}"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="{{ url_for('static', filename='js/flickity.pkgd.min.js') }}"></script>
+		<script src="{{ url_for('static', filename='js/jquery.fancybox.pack.js') }}"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="{{ url_for('static', filename='js/retina.js') }}"></script>
+		<script src="{{ url_for('static', filename='js/waypoints.min.js') }}"></script>
+		<script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+		<script src="{{ url_for('static', filename='js/min/scripts-min.js') }}"></script>
+		<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+		<script>
+		(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+		function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+		e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+		e.src='//www.google-analytics.com/analytics.js';
+		r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+		ga('create','UA-XXXXX-X');ga('send','pageview');
+		</script>
+	</body>
+</html>
