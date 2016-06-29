@@ -1,0 +1,1269 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"send",
+				"send_msg"
+			],
+			[
+				"regi",
+				"registeredClass"
+			],
+			[
+				"NEW",
+				"newClass"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"p",
+				"payment_verify"
+			],
+			[
+				"Name",
+				"newName"
+			],
+			[
+				"ne",
+				"newEmail"
+			],
+			[
+				"me",
+				"methods"
+			],
+			[
+				"Q",
+				"QuestionForm"
+			],
+			[
+				"clas",
+				"class_name"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"get",
+				"get_template"
+			],
+			[
+				"render",
+				"render_to_response"
+			],
+			[
+				"request",
+				"RequestContext"
+			],
+			[
+				"m",
+				"MEDIA_ROOT"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"Ba",
+				"BASE_DIR"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"_",
+				"__name__"
+			],
+			[
+				"first",
+				"first_urls"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fons",
+				"font-style"
+			],
+			[
+				"pading",
+				"padding-top"
+			],
+			[
+				"client",
+				"clientWidth"
+			],
+			[
+				"clien",
+				"clientHeight"
+			],
+			[
+				"video",
+				"videoNumber"
+			],
+			[
+				"vide",
+				"video_id"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"text",
+				"TextAreaField"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"bo",
+				"button	Tag"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"center",
+				"centerSquare"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"vid",
+				"videos"
+			],
+			[
+				"video_",
+				"video_list"
+			],
+			[
+				"vi",
+				"video_list"
+			],
+			[
+				"lates",
+				"latest_video"
+			],
+			[
+				"s",
+				"String"
+			],
+			[
+				"pos",
+				"POST"
+			],
+			[
+				"contact",
+				"contact_msg"
+			],
+			[
+				"Dat",
+				"DataRequired"
+			],
+			[
+				"url",
+				"url_for"
+			],
+			[
+				"admin",
+				"admin_msg"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"g",
+				"GET"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"new",
+				"new_way"
+			],
+			[
+				"W",
+				"WayForm"
+			],
+			[
+				"su",
+				"SubscriptionForm"
+			],
+			[
+				"validate",
+				"validate_on_submit"
+			],
+			[
+				"B",
+				"BooleanField"
+			],
+			[
+				"T",
+				"TextAreaField"
+			],
+			[
+				"proj",
+				"projects"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"Dare",
+				"DateRange"
+			],
+			[
+				"Date",
+				"DateRange"
+			],
+			[
+				"Da",
+				"DataRequired"
+			],
+			[
+				"fi",
+				"finished"
+			],
+			[
+				"Pr",
+				"ProjectForm"
+			],
+			[
+				"S",
+				"StringField"
+			],
+			[
+				"t",
+				"td	Tag"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"fini",
+				"finished_projects"
+			],
+			[
+				"fin",
+				"finished_projects"
+			],
+			[
+				"d",
+				"db"
+			],
+			[
+				"logi",
+				"login_required"
+			],
+			[
+				"pro",
+				"projects"
+			],
+			[
+				"fil",
+				"filter_by"
+			],
+			[
+				"de",
+				"def	Function"
+			],
+			[
+				"pra",
+				"primary_key"
+			],
+			[
+				"M",
+				"Model"
+			],
+			[
+				"se",
+				"secure_filename"
+			],
+			[
+				"metho",
+				"method"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"upl",
+				"upload_file"
+			],
+			[
+				"f",
+				"filename"
+			],
+			[
+				"meth",
+				"method"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"lo",
+				"login_required"
+			],
+			[
+				"log",
+				"logged_in"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"fla",
+				"flash"
+			],
+			[
+				"ro",
+				"route"
+			],
+			[
+				"l",
+				"logged_in"
+			],
+			[
+				"Pas",
+				"password"
+			],
+			[
+				"po",
+				"posts"
+			],
+			[
+				"DATA",
+				"DATABASE_PATH"
+			],
+			[
+				"flas",
+				"flask"
+			],
+			[
+				"wra",
+				"wraps"
+			],
+			[
+				"e",
+				"extras"
+			],
+			[
+				"D",
+				"DATABASE_NAME"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"seco",
+				"seconds"
+			],
+			[
+				"seconds",
+				"seconds_left"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"sec",
+				"seconds"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"c",
+				"cols	Attr"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"bai",
+				"background-image"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"i",
+				"id	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "run.py",
+			"settings":
+			{
+				"buffer_size": 42,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "forms.py",
+			"settings":
+			{
+				"buffer_size": 795,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models.py",
+			"settings":
+			{
+				"buffer_size": 1293,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views.py",
+			"settings":
+			{
+				"buffer_size": 4405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mohammad/flask-deploy/fabfile.py",
+			"settings":
+			{
+				"buffer_size": 4321,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mohammad/.cache/.fr-o26ybJ/SampleCode-Python-Flask-master/zarinpal.py",
+			"settings":
+			{
+				"buffer_size": 2011,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.py",
+			"settings":
+			{
+				"buffer_size": 920,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/index.html",
+			"settings":
+			{
+				"buffer_size": 14660,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/register.html",
+			"settings":
+			{
+				"buffer_size": 1087,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mohammad/projects/frenchonline/forms.py",
+		"/home/mohammad/projects/frenchonline/models.",
+		"/home/mohammad/projects/payment_for_telegram/skeleton1.py",
+		"/home/mohammad/djangoShit/two/blog/blog/settings.py",
+		"/home/mohammad/djangoShit/two/blog/post/admin.py",
+		"/home/mohammad/djangoShit/two/blog/templates/index.html",
+		"/home/mohammad/djangoShit/two/blog/post/forms.py",
+		"/home/mohammad/djangoShit/two/blog/templates/post.html",
+		"/home/mohammad/djangoShit/two/blog/post/models.py",
+		"/home/mohammad/djangoShit/two/blog/post/tests.py",
+		"/home/mohammad/djangoShit/two/blog/templates/add_post.html",
+		"/home/mohammad/djangoShit/two/blog/post/urls.py",
+		"/home/mohammad/djangoShit/two/blog/blog/urls.py",
+		"/home/mohammad/djangoShit/two/blog/post/views.py",
+		"/home/mohammad/theblog/_config.py",
+		"/home/mohammad/projects/frenchonline/_config.py",
+		"/home/mohammad/theblog/views.py",
+		"/home/mohammad/projects/frenchonline/views.py",
+		"/home/mohammad/projects/frenchonline/models.py",
+		"/home/mohammad/projects/myschool/myschool/myschool/settings.py",
+		"/home/mohammad/projects/frenchonline/run.py",
+		"/home/mohammad/theblog/models.py",
+		"/home/mohammad/projects/frenchonline/db_create.py",
+		"/home/mohammad/theblog/forms.py",
+		"/home/mohammad/projects/frenchonline/templates/index.html",
+		"/home/mohammad/theblog/templates/postedit.html",
+		"/home/mohammad/projects/frenchonline/templates/register.html",
+		"/home/mohammad/Desktop/SamanSystems-ZarinGate-Python-Flask-Sample-Code-cccfbc8/zarinpal.py",
+		"/home/mohammad/PycharmProjects/learnin/googleCodeJamTheme.py",
+		"/home/mohammad/theblog/run.py",
+		"/home/mohammad/theblog/templates/post.html",
+		"/home/mohammad/Desktop/Boxify/index.html",
+		"/home/mohammad/Desktop/Boxify/css/styles.css",
+		"/home/mohammad/projects/frenchonline/.gitignore",
+		"/home/mohammad/theblog/db_create.py",
+		"/home/mohammad/projects/frenchonline/_config.ppy",
+		"/home/mohammad/projects/frenchonline/db_creat.py",
+		"/home/mohammad/Desktop/Boxify/css/flickity.css",
+		"/home/mohammad/Desktop/Boxify/js/jquery.fancybox.pack.js",
+		"/home/mohammad/theblog/models.py,",
+		"/home/mohammad/theblog/forms.py,",
+		"/home/mohammad/Desktop/Boxify/img/social icons/social.svg",
+		"/home/mohammad/djangoShit/two/blog/post/migrations/0003_auto_20160401_0212.py",
+		"/home/mohammad/djangoShit/two/blog/post/migrations/0002_auto_20160401_0206.py",
+		"/home/mohammad/djangoShit/one/project/project/settings.py",
+		"/home/mohammad/djangoShit/one/project/app/views.py",
+		"/home/mohammad/djangoShit/one/project/templates/time.html",
+		"/home/mohammad/djangoShit/one/project/app/urls.py",
+		"/home/mohammad/djangoShit/one/project/project/urls.py",
+		"/home/mohammad/djangoShit/one/project/hey/views.py",
+		"/home/mohammad/djangoShit/one/project/templates/new.html",
+		"/home/mohammad/djangoShit/one/project/hey/urls.py",
+		"/home/mohammad/djangoShit/one/project/project/project/urls.py",
+		"/home/mohammad/djangoShit/one/project/project/hey/urls.py",
+		"/home/mohammad/djangoShit/one/project/project/project/settings.py",
+		"/home/mohammad/djangoShit/one/project/project/hey/views.py",
+		"/home/mohammad/Desktop/Boxify/css/bootstrap.min.css",
+		"/home/mohammad/Desktop/bootstrap-rtl-3.3.4/examples/originals/examples/grid/index.html",
+		"/home/mohammad/Desktop/bootstrap-rtl-3.3.4/examples/originals/examples/grid/grid.css",
+		"/home/mohammad/djangoShit/one/project/project/template/hey.html",
+		"/home/mohammad/Desktop/jsTEST.html",
+		"/home/mohammad/djangoShit/one/project/hello/views.py",
+		"/home/mohammad/djangoShit/one/project/hello/urls.py",
+		"/home/mohammad/Desktop/jsTEST.js",
+		"/home/mohammad/wordpress/wordpress/wp-config.php",
+		"/etc/php5/apache2/php.ini",
+		"/var/www/html/wp-config.php",
+		"/home/mohammad/flask_simple/main.py",
+		"/home/mohammad/excersisesOfPython/1_flask.py",
+		"/home/mohammad/Desktop/Valentine University  Attraction Is Not A Choice.swf",
+		"/home/mohammad/djangoShit/new_test/newProject/sayHello/urls.py",
+		"/home/mohammad/djangoShit/new_test/newProject/sayHello/views.py",
+		"/home/mohammad/djangoShit/new_test/newProject/newProject/urls.py",
+		"/home/mohammad/Desktop/Fight Club FA.srt",
+		"/home/mohammad/djangoShit/new_test/newProject/newProject/settings.py",
+		"/home/mohammad/djangoShit/mohammadTest/helloShit/helloShit/settings.py",
+		"/home/mohammad/djangoShit/mohammadTest/helloShit/firstHey/views.py",
+		"/home/mohammad/theEnglishBlog/templates/main.html",
+		"/home/mohammad/djangoShit/mohammadTest/helloShit/firstHey/urls.py",
+		"/home/mohammad/djangoShit/mohammadTest/helloShit/helloShit/urls.py",
+		"/home/mohammad/theblog/templates/about.html",
+		"/home/mohammad/theblog/templates/vlog.html",
+		"/home/mohammad/theblog/static/css/mainstyle.css",
+		"/home/mohammad/theblog/static/css/jquery.ferro.ferroMenu.css",
+		"/home/mohammad/theblog/static/js/jquery.ferro.ferroMenu-1.0.min.js",
+		"/home/mohammad/theblog/templates/vlogpost.html",
+		"/home/mohammad/theblog/static/css/vlog.css",
+		"/home/mohammad/theblog/templates/specificpost.html",
+		"/home/mohammad/theblog/static/css/specificpost.css",
+		"/home/mohammad/theblog/templates/specificvideo.html",
+		"/home/mohammad/theblog/templates/_blog.html",
+		"/home/mohammad/theblog/templates/projects.html",
+		"/home/mohammad/theblog/static/css/blogstyle.css",
+		"/home/mohammad/theblog/static/css/projectsstyle.css",
+		"/home/mohammad/theblog/static/css/about.css",
+		"/home/mohammad/djangoShit/heyNOW/heyNOW/settings.py",
+		"/home/mohammad/djangoShit/heyNOW/heyApp/views.py",
+		"/home/mohammad/djangoShit/heyNOW/heyNOW/urls.py",
+		"/home/mohammad/djangoShit/heyNOW/heyNOW/ping",
+		"/home/mohammad/djangoShit/heyNOW/heyNOW/google.com",
+		"/home/mohammad/djangoShit/heyNOW/heyApp/urls.py",
+		"/home/mohammad/theblog/templates/main.html",
+		"/home/mohammad/theblog/templates/login.html",
+		"/home/mohammad/theblog/templates/adminterminal.html",
+		"/home/mohammad/theblog/templates/editways.html",
+		"/home/mohammad/theblog/templates/newproject.html",
+		"/home/mohammad/theblog/templates/newvideo.html",
+		"/home/mohammad/theblog/templates/adminterminal",
+		"/home/mohammad/theblog/.gitignore",
+		"/home/mohammad/theblog/templates/models.py",
+		"/home/mohammad/Desktop/trendingColors",
+		"/home/mohammad/Desktop/pro/videos/video.css",
+		"/home/mohammad/sahand/mimic/README.md",
+		"/home/mohammad/Desktop/pro/videos/video.html",
+		"/home/mohammad/Desktop/pro/videopost/sample.css",
+		"/home/mohammad/Desktop/pro/videopost/sample.html",
+		"/etc/udev/rules.d/xusbdfwu.rules",
+		"/home/mohammad/Desktop/pro/videopost/jquery.ferro.ferroMenu.css",
+		"/home/mohammad/Desktop/pro/videopost/jquery.ferro.ferroMenu-1.0.min.js",
+		"/home/mohammad/Desktop/pro/blogpost/sample.html",
+		"/home/mohammad/Desktop/pro/blogpost/sample.css",
+		"/home/mohammad/Desktop/pro/blogpost/jquery.ferro.ferroMenu.css",
+		"/home/mohammad/Desktop/pro/blog/persianblog.css",
+		"/home/mohammad/Desktop/Path-Style-Round-Menu-Plugin-with-jQuery-CSS3-FerroMenu/demos/index.html",
+		"/home/mohammad/Desktop/Path-Style-Round-Menu-Plugin-with-jQuery-CSS3-FerroMenu/demos/demo0.html",
+		"/home/mohammad/Desktop/pro/blog/blog.css",
+		"/home/mohammad/Desktop/pro/projects/projects.css",
+		"/home/mohammad/Desktop/pro/about/about.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mmrechant_id",
+			"name",
+			"ClassName",
+			"}}",
+			"Drawing",
+			"img",
+			"screen",
+			"row",
+			"ثبت نام",
+			"font",
+			" (",
+			"img",
+			"left",
+			"\n",
+			"left",
+			"media",
+			"'),\n",
+			"itsdan",
+			"its",
+			"فیلم",
+			"flip",
+			"hello",
+			"posi",
+			"sq",
+			"date",
+			"h2",
+			"font",
+			"font-size",
+			"nav",
+			"drag",
+			"contain",
+			"rel",
+			"default",
+			"post",
+			"GET",
+			"h1",
+			"cd-read",
+			"css",
+			"speci",
+			"پاک ",
+			"comment",
+			"position:",
+			"a ",
+			"a",
+			"font",
+			"white",
+			"before",
+			":before",
+			"absolute",
+			";\n",
+			"	<",
+			"background",
+			"media",
+			".content",
+			"about.png",
+			"@media ",
+			"section",
+			"rotate",
+			"admin",
+			"login",
+			"email",
+			" ;",
+			"p ",
+			"font-family",
+			"font",
+			".qu:nth-child(1){\n  background: #B3B9BF;\n}",
+			"white",
+			"background",
+			"e4ed",
+			"background",
+			"#",
+			"%;\n",
+			"pos",
+			"id",
+			"\";\n",
+			"left",
+			"a",
+			"a {",
+			"script",
+			"img",
+			"justify-items",
+			"qu",
+			">\n",
+			"></",
+			"bgimg2",
+			"== ",
+			"mainpicture",
+			"rotate",
+			"contact",
+			"li",
+			"2",
+			"64/2",
+			"64/",
+			"yekan",
+			"phonenumber",
+			"mail",
+			"overflow",
+			"0px",
+			"flaskmail",
+			"render_template",
+			" }}",
+			"header",
+			"before",
+			"posts",
+			"su",
+			";\n",
+			"test",
+			"header",
+			"discription",
+			"font-family",
+			"row",
+			"divqbottom",
+			"divqtop",
+			"nav",
+			"video",
+			"overflow",
+			"position",
+			"menu",
+			"fixed",
+			"</>\n",
+			"caption",
+			"width",
+			"%;\n",
+			"height",
+			"ul",
+			"src",
+			"li",
+			"=''></"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "run.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								659,
+								659
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1048,
+								1048
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2469,
+								2469
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/mohammad/flask-deploy/fabfile.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								557,
+								557
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1653.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/mohammad/.cache/.fr-o26ybJ/SampleCode-Python-Flask-master/zarinpal.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								595,
+								595
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_config.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								879,
+								879
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								480,
+								480
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1140.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "templates/register.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1087,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								519,
+								519
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "frenchonline.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

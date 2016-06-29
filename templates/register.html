@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+</head>
+<body>
+	<div class="container">
+		<p dir="rtl">اگر مشکل یا سوالی دارید با ما تماس بگیرید	</p>
+			<form role="form" dir="rtl" method="POST" action="{{ url_for('register') }}">
+			{{ form.csrf_token }}
+			<div class="form-group">
+				<label for="comment">نام</label>
+				{{ form.name(class_="form-control") }}
+			</div>
+			<div class="form-group">
+				<label for="comment">ایمیل</label>
+				{{ form.email(class_="form-control") }}
+			</div>
+			<div class="form-group">
+				<label for="comment">phone</label>
+				{{ form.phone(class_="form-control") }}
+			</div>
+			<div class="form-group">
+				<label for="comment">class</label>
+				{{ form.class_name(class_="form-control") }}
+			</div>
+			<button type="submit" class="btn btn-default" id="btn">پرداخت</button>
+		</form>
+	</div>
+</body>
+</html>

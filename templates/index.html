@@ -62,7 +62,8 @@
 					</div>
 					<div class="row hero-content">
 						<div class="col-md-12">
-							<h1 class="animated fadeInDown">دوره های تخصصی آموزش زبان فرانسه (تدریس با متد معتبر بین المللی)</h1>
+							<h1 class="animated fadeInDown">دوره های تخصصی آموزش زبان فرانسه</h1>
+							<h2 class="animated fadeInDown">تدریس با متد معتبر بین المللی</h2>
 							<a href="http://tympanus.net/codrops/?p=22554" class="use-btn animated fadeInUp">ثبت نام</a> <a href="#about" class="learn-btn animated fadeInUp" dir="rtl"><i class="fa fa-arrow-down"></i>میخواهم بیشتر بدانم</a>
 						</div>
 					</div>
@@ -202,9 +203,9 @@
 					<div class="col-md-12">
 						<h1>برگزاری کلاس ها با ظرفیت محدود</h1>
 						<p>برای این که دوره ها منظم باشند و دانش جویان بتوانند راحتتر مطالب را پیگیری کنند و با مدرس ارتباط داشته باشند، تعداد ثبت نام برای دوره های خصوصی را محدود قرار داده ایم.</p>
-						<p>در این قسمت شما میتوانید نمونه هایی از تدریس ها را مشاهده نمایید. این آموزش ها را به صورت screenshot قرار داده ایم.</p>
+						<p>در این قسمت شما میتوانید هر گونه سوال یا پرسشی که دارید ثبت بفرمایید تا در اسرع وقت به شما پاسخ دهیم.</p>
 						<p>هزینه ثبت نام برای هر ترم 25000 تومان میباشد. پس از ثبت نام ظرف حداکثر 24 ساعت به کانال مربوطه دعوت خواهید شد.</p>
-						<p><a href="#screenshots" class="arrow-btn"><i class="fa fa-long-arrow-left"></i> مشاهده نمونه عکس ها</a></p>
+						<p><a href="#screenshots" class="arrow-btn"><i class="fa fa-long-arrow-left"></i>در صورتی که سوالی دارید اینجا را کلیک کنید</a></p>
 					</div>
 				</div>
 			</div>
@@ -212,17 +213,22 @@
 		<section class="contact" id="contact">
 			<div id="form">
 				<p>اگر مشکل یا سوالی دارید با ما تماس بگیرید	</p>
-				<form role="form" dir="rtl">
+				<form role="form" dir="rtl" method="post" action="{{ url_for('main') }}">
+				{{ form.csrf_token }}
 					<div class="form-group">
 					<label for="comment">نام</label>
-					<input type="email" class="form-control" id="email" placeholder="email" dir="auto">
+						{{ form.name(class_="form-control") }}
 					</div>
 					<div class="form-group">
-					<input type="name" class="form-control" id="pwd" placeholder="نام" dir="rtl">
+					<label for="comment">ایمیل</label>
+						{{ form.email(class_="form-control") }}
 					</div>
 					<div class="form-group">
 					<label for="comment">پرسش</label>
-					<textarea class="form-control" rows="5" id="comment"></textarea>
+						{{ form.question(cols=50, rows=10, class_="form-control") }}
+					</div>
+					<div class="form-group">
+						{{ form.recaptcha }}
 					</div>
 					<button type="submit" class="btn btn-default" id="btn">ثبت پرسش</button>
 				</form>
